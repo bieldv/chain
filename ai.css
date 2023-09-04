@@ -1,0 +1,58 @@
+*{
+     background-color: antiquewhite; 
+
+}
+
+
+
+h1{
+    color:darkblue;
+}
+
+.size{
+   font-size: large;
+}
+
+div img{
+    height: 50%;
+    width: 50%;
+    border: 5px solid white;
+    box-shadow: 1px 1px 4px black;  
+    display: block;
+
+    
+  
+}
+nav ul{
+    display: flex ;
+   justify-content: space-around;
+   margin-top: 30px;
+
+}
+
+nav a li{
+    background-color: gray;
+    color: aliceblue;
+}
+
+.text{
+    margin: 30px 20px ;
+    color: #010344;
+}
+
+.top{
+  text-align: center;
+
+}
+
+p{
+    display: flex;
+    text-align: start;
+   
+}
+
+.animes{
+    height: 600px;
+    width: auto;
+ margin: 50px;
+}
